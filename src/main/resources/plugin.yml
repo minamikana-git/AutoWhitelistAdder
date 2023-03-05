@@ -2,3 +2,6 @@ name: AutoWhitelistAdder
 version: '${project.version}'
 main: org.hotal.autowhitelistadder.AutoWhitelistAdder
 api-version: 1.19
+load: STARTUP
+authors: [蛍]
+description: 自動ホワイトリスト追加プラグイン
