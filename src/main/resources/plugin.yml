@@ -1,0 +1,4 @@
+name: AutoWhitelistAdder
+version: '${project.version}'
+main: org.hotal.autowhitelistadder.AutoWhitelistAdder
+api-version: 1.19
