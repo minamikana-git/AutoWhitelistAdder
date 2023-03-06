@@ -6,13 +6,13 @@
 
     <groupId>me.hotal.plugins.AutoWhitelistAdder</groupId>
     <artifactId>AutoWhitelistAdder</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
     <packaging>jar</packaging>
 
     <name>AutoWhitelistAdder</name>
 
     <description>自動ホワイトリスト追加プラグイン</description><properties>
-    <java.version>1.8</java.version>
+    <java.version>17</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 </properties>
 
