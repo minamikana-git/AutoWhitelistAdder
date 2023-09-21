@@ -18,5 +18,6 @@ Minecraft 1.20.1対応
 ![image](https://github.com/minamikana-git/AutoWhitelistAdder/assets/93361361/e33a38c5-36cb-43f7-8cb8-e811cbc25684)
 
 `コンソールから、whitelist list`で自分がホワイトリストに追加されているか確認できます。
+![image](https://github.com/minamikana-git/AutoWhitelistAdder/assets/93361361/5f2af5dc-d289-409f-bc26-0efa7cb8f2e9)
 
 クロスプレイサーバーにも対応しています。
